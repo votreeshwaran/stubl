@@ -108,7 +108,6 @@ if (t < 0) {
 
 
 
-
 <!-- Auto Updating downtime clock -->
 <script>
 
@@ -171,8 +170,8 @@ if (t < 0) {
 </script>
 
 
+<!-- End of code for autoupdating Countdown Timer -->
 
-<!-- End of code for Countdown Timer -->
 
 
 
